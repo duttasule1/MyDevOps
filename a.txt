@@ -4,9 +4,5 @@ change and release processes for IT Application department. Responsible for
 deploying approved change requests from Staging (Quality) environment 
 to the Production environment in a secure manner. Responsible for managing and reporting the communication of the releases 
 and change requests to the IT Application Manager and the stakeholder.
-<<<<<<< HEAD
 Joining Indore office to go Mahakal Temple regularely 
-
-=======
 Soon want to go Khatusham baba, Watch wale of Ujjain
->>>>>>> be87f4239a1ebb307dd46f09be4c5807fe0a59e8
